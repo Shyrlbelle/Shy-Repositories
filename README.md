@@ -16,14 +16,9 @@ Welcome to my project! This repository contains my source code, files, and docum
 
 ## 📂 Installation ૮꒰ ˶• ༝ •˶꒱ა ♡
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   ```
+[Midterm Repositories](https://github.com/Shyrlbelle/Shy-Repositories/tree/7d37dd0e28b89c9ef39bb1a27a14c77922715307/Midterm)
 
-2. Open the project folder.
-
-3. Run the project.
+[Final Repositories](https://github.com/Shyrlbelle/Shy-Repositories/tree/7d37dd0e28b89c9ef39bb1a27a14c77922715307/Final)
 
 ## 📸 Preview
 Add your project screenshots here.
